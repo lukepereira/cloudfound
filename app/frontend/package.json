@@ -8,7 +8,7 @@
     "axios": "^0.21.1",
     "history": "^4.7.2",
     "json2yaml": "^1.1.0",
-    "merge": ">=1.2.1",
+    "merge": ">=2.1.1",
     "postscribe": "^2.0.8",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
